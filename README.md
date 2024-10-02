@@ -1,6 +1,6 @@
 
 
-```markdown
+```markdown 
 # Complete Guide to Installing and Setting Up PHP, MySQL, and phpMyAdmin on Ubuntu
 
 This guide will walk you through the process of installing Apache, PHP, MySQL, and phpMyAdmin on an Ubuntu system. Follow these steps to set up a basic development environment.
