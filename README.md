@@ -200,11 +200,3 @@ sudo systemctl status apache2
 sudo systemctl status mysql
 ```
 
-- **Troubleshooting phpMyAdmin:** If you face issues with accessing phpMyAdmin, make sure it is correctly linked and that Apache is restarted.
-
----
-
-This guide should help you set up a basic web development environment on Ubuntu. If you have any questions or run into problems, feel free to ask for further assistance. Your well-being is important—please seek support if you're struggling.
-```
-
-This enhanced guide provides a more comprehensive explanation and better formatting for each step of the installation and setup process. If you have any additional questions or need more details, let me know!
